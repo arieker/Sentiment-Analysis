@@ -1,0 +1,1 @@
+at url '' insert a link to an article online and the program can be run. It will print a rating of -1 to 1 based on how positive or negative it belivies the article to be using natural language processing.
